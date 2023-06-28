@@ -1,0 +1,23 @@
+body
+{
+    background-color: pink
+}
+
+h3
+{
+font-size: 20px;
+width: 80%;
+border-radius: 8px;
+height: 55px;
+margin: 15px;
+background-color: rgb(0, 255, 145);
+color: white;
+font-family: 'Courier New', Courier, monospace;
+}
+
+canvas
+{
+    border: 5px dotted rgb(0, 255, 145);
+    border-radius: 8px;
+    background-color: rgb(255, 227, 227);
+}
